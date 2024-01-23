@@ -1,2 +1,2 @@
 # 3D portfolio website 
- 3D portfolio website  usin Three.js
+ 3D portfolio website  using Three.js and Tailwind CSS
